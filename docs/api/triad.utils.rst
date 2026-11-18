@@ -58,6 +58,14 @@ triad.utils.hash
    :show-inheritance:
    :undoc-members:
 
+triad.utils.http
+----------------
+
+.. automodule:: triad.utils.http
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 triad.utils.io
 --------------
 
